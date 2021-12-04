@@ -2,7 +2,8 @@
 
 ### Hi there, I'm Sean - aka thatonecoder06 👋 
 
-<br />
+### Current Projects:
+
 
 ### Languages and Tools:
 
