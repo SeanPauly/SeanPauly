@@ -15,7 +15,9 @@
 [<img align="left" alt="thatonecoder06 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="thatonecoder06 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
 <br />
+
 
 ### Languages and Tools:
 
@@ -26,6 +28,9 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://www.python.org/static/favicon.ico" />]
 
+
+<br />
+<br />
 
 [twitter]: https://twitter.com/thatonecoder06
 [youtube]: https://www.youtube.com/channel/UCvkvNj8EVglnj_fh691qYOQ/featured
