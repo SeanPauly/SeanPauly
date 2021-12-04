@@ -1,6 +1,6 @@
 ### Hi there, I'm Sean - aka thatonecoder06 👋 
 
-[![YOUTUBE](https://img.shields.io/website?label=thatonecoder06.com&style=for-the-badge&url=https%3A%2F%2Fhttps://www.youtube.com/thatonecoder06)](https://www.youtube.com/channel/UCvkvNj8EVglnj_fh691qYOQ/featured)
+[![YOUTUBE](https://img.shields.io/website?label=thatonecoder06.com&style=for-the-badge&url=https%3A%2F%2Fhttps://www.youtube.com/channel/UCvkvNj8EVglnj_fh691qYOQ/featured)](https://www.youtube.com/channel/UCvkvNj8EVglnj_fh691qYOQ/featured)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thatonecoder06?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcthatonecoder06&screen_name=thatonecoder06)
 
 ## I'm a Developer, and High School Student!!
