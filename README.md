@@ -1,7 +1,6 @@
 ### Hi there, I'm Sean - aka thatonecoder06 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/thatonecoder06?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcthatonecoder06&screen_name=thatonecoder06)
-[![Instagram Follow](https://img.shields.io/instagram/follow/thatonecoder06?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcseanpauly06&screen_name=seanpauly06)
 
 
 ## I'm a Developer, and High School Student!!
