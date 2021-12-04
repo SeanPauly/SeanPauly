@@ -8,7 +8,7 @@
 [<img align="left" alt="thatonecoder06 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="thatonecoder06 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="thatonecoder06 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<br />
 ## I'm a Developer, and High School Student!!
 
 - 🌱 I’m currently interested in computer science and furthering my athletic career
