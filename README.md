@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently interested in computer science and furthering my athletic career
 - 🥅 2022 Goals: Complete my StudyStar Project
-- ⚡ Fun fact: I love to play soccer, golf, and write software 🙃
+- ⚡ Fun fact: I love to play soccer, golf, and writing software 🙃
 
 <br />
 
