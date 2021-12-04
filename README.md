@@ -29,5 +29,5 @@
 
 
 [twitter]: https://twitter.com/thatonecoder06
-[youtube]: https://youtube.com/thatonecoder06
+[youtube]: https://www.youtube.com/channel/UCvkvNj8EVglnj_fh691qYOQ/featured
 [instagram]: https://instagram.com/thatonecoder06
