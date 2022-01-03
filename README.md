@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Sean - aka thatonecoder06 👋 
 
-### Current Projects:
+### Current Projects: StudyStar 
 
 
 ### Languages and Tools:
