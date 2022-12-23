@@ -27,7 +27,7 @@
 <br />
 <br />
 
-## I'm a Developer, and a Sophomore in High School!!
+## I'm a Developer, and a Junior in High School!!
 
 - 🌱 I’m currently interested in computer science and furthering my athletic career
 - 🥅 2022 Goals: Complete my StudyStar Project
