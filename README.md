@@ -4,10 +4,6 @@
 
 ### 🌟 About Me:
 
-- 🎓 I'm a passionate high school senior driven by interests in computer science, athletics, and entrepreneurship.
-- 🚀 Currently, I'm diving into the StudyStar Project, blending my coding skills with innovative solutions.
-- ⚽ As much as I love coding, soccer, and golf are my true joys outside the tech realm.
-
 ### 🛠️ Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -28,16 +24,6 @@
 
 <br />
 <br />
-
-### 🎯 Goals for 2024:
-
-- 🔭 Complete and further develop my StudyStar Project, amalgamating coding finesse with innovative solutions.
-- 🌍 Expand my coding and entrepreneurial horizons while nurturing my passion for sports.
-
-### 🚀 Fun Facts:
-
-- 📚 My zeal for computer science is matched only by my love for soccer, golf, and creating software.
-- 🎮 In the midst of it all, I'm always seeking the next challenge and looking for ways to make a positive impact.
 
 [twitter]: https://twitter.com/thatonecoder06
 [youtube]: https://www.youtube.com/channel/UCvkvNj8EVglnj_fh691qYOQ/featured
